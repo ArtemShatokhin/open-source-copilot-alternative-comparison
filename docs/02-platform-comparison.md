@@ -6,7 +6,7 @@ This is the detailed version of the comparison in the [README](../README.md). Ev
 
 | Platform | Source | Self-host | Models | Configuration | Human gate | Best for |
 |---|---|---|---|---|---|---|
-| **Kortix** | Open source (Elastic License 2.0 — self-host, read and modify the code) | Your laptop, VPS, VPC or on-prem; or managed cloud | Any model, your own keys, per agent/session/message | One git repo you own | Change request; merge default-deny for agents | A company-wide agent system you own |
+| **Kortix** | Open source — self-host, read and modify the code | Your laptop, VPS, VPC or on-prem; or managed cloud | Any model, your own keys, per agent/session/message | One git repo you own | Change request; merge default-deny for agents | A company-wide agent system you own |
 | OpenHands | Open source (MIT) | Self-host or OpenHands Cloud | Any LLM (configurable) | Per-project | Pull requests / review | Software engineering teams |
 | Open WebUI | Open WebUI License (BSD-3-derived with branding restrictions) | Self-host | Ollama, OpenAI API and compatible backends | Per-deployment | None by default | A chat interface over models and documents |
 | AnythingLLM | Open source (MIT) | Local desktop or Docker | Local models and any provider | Desktop app | None by default | Local-first RAG and a no-code agent builder |

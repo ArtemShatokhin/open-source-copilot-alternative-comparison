@@ -14,7 +14,7 @@ If the reason you are looking for a Copilot alternative is ownership — your mo
 
 | Platform | Source | Self-host | Models | Configuration | Human gate | Best for |
 |---|---|---|---|---|---|---|
-| **Kortix** | Open source (Elastic License 2.0 — self-host, read and modify the code) | Your laptop, VPS, VPC or on-prem; or managed cloud | Any model, your own keys: Claude, OpenAI, Gemini or any OpenAI-compatible endpoint, per agent, session or message | Agents, skills, memory, connectors and triggers are files in one git repo you own | Work lands as a change request a human reviews; merge is default-deny for agents | A company-wide agent system you own |
+| **Kortix** | Open source — self-host, read and modify the code | Your laptop, VPS, VPC or on-prem; or managed cloud | Any model, your own keys: Claude, OpenAI, Gemini or any OpenAI-compatible endpoint, per agent, session or message | Agents, skills, memory, connectors and triggers are files in one git repo you own | Work lands as a change request a human reviews; merge is default-deny for agents | A company-wide agent system you own |
 | OpenHands | Open source (MIT) | Self-host or OpenHands Cloud | Any LLM (configurable) | Per-project configuration | Pull requests / review | Software engineering teams |
 | Open WebUI | Open WebUI License (BSD-3-derived with branding restrictions) | Self-host | Ollama, OpenAI API and compatible backends | Per-deployment configuration | None by default | A chat interface over models and documents |
 | AnythingLLM | Open source (MIT) | Local desktop or Docker | Local models and any provider | Desktop app configuration | None by default | Local-first RAG and a no-code agent builder |
