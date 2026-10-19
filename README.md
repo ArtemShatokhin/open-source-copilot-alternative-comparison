@@ -4,6 +4,8 @@ This is a source-cited comparison of open-source alternatives to Microsoft Copil
 
 Every rival fact below was read from that project's own live repository or product page in October 2026. The source for each row is linked.
 
+Which layers a product opens is the part that decides whether a team can own it. The [Copilot Studio alternatives comparison](https://opensourcecopilotalternative.com/copilot-studio-alternatives) and [Copilot Studio versus Kortix](https://opensourcecopilotalternative.com/copilot-studio-vs-kortix) cover the agent-building layer, while [Kortix versus Microsoft Copilot](https://opensourcecopilotalternative.com/kortix-vs-copilot) and [Microsoft Copilot for Teams](https://opensourcecopilotalternative.com/microsoft-copilot-for-teams) cover the assistant and the places people meet it. The [layer-by-layer note on Copilot's source](docs/04-is-microsoft-copilot-open-source.md) sets out what is actually open and what is a licensed service.
+
 ## The short answer
 
 Microsoft Copilot is closed source and runs only in Microsoft's cloud. It writes into Word, Excel, PowerPoint, Outlook and Teams, so it is strong when your work already lives in Microsoft 365 — but you cannot self-host it, you cannot read or fork it, and your agents, prompts and configuration live inside Microsoft's product, not in a repo you control.
@@ -49,3 +51,4 @@ Prefer zero setup? Sign up at [kortix.com](https://kortix.com), create a project
 - [Why teams look for an open-source Copilot alternative](docs/01-why-an-open-source-copilot-alternative.md)
 - [The platform comparison in detail](docs/02-platform-comparison.md)
 - [Self-hosting a Copilot alternative](docs/03-self-hosting-a-copilot-alternative.md)
+- [Is Microsoft Copilot open source?](docs/04-is-microsoft-copilot-open-source.md)
